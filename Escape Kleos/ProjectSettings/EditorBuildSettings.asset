@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escape Kleos/Continuous-Movement.unity
+    guid: 5fee65d06c947e049ab34230785758c2
+  - enabled: 1
+    path: Assets/Escape Kleos/End.unity
+    guid: e2c6596a401bed64db7c6ca349a53ce3
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fd1288ae8b906b34189fc308d01421f3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 023bfb8b4ab30c44db55a4f6aea00477, type: 2}

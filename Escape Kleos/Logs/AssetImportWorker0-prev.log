@@ -1,0 +1,1763 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16233 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Edwar/Downloads/XR-Interaction-Toolkit-OpenXR-Demos-main (2)/Escape Kleos
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61657
+Successfully changed project path to: C:/Users/Edwar/Downloads/XR-Interaction-Toolkit-OpenXR-Demos-main (2)/Escape Kleos
+C:/Users/Edwar/Downloads/XR-Interaction-Toolkit-OpenXR-Demos-main (2)/Escape Kleos
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 76.16 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.65 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Edwar/Downloads/XR-Interaction-Toolkit-OpenXR-Demos-main (2)/Escape Kleos/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f50)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.5763
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003250 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.24 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.510 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1511ms)
+		BeginReloadAssembly (62ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (450ms)
+			LoadAssemblies (59ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (156ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (183ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (62ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.68 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.493 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1495ms)
+		BeginReloadAssembly (163ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (1266ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (304ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (648ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (63ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (453ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 2501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.3 MB.
+System memory in use after: 125.5 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 2949.
+Total: 3.203300 ms (FindLiveObjects: 0.213600 ms CreateObjectMapping: 0.093600 ms MarkObjects: 2.740400 ms  DeleteObjects: 0.154900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_door.prefab
+  artifactKey: Guid(db1a4c8ae12944144b7a56b1adb279c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_door.prefab using Guid(db1a4c8ae12944144b7a56b1adb279c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662e2c8b09e9c3ea2e97a8e5c91a3b40') in 0.267105 seconds 
+  Import took 0.271019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_support_1_square.prefab
+  artifactKey: Guid(23d2c27c021bf458dbea5e5439e337b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_support_1_square.prefab using Guid(23d2c27c021bf458dbea5e5439e337b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d9abc665e0392f36af5035291493c8') in 0.016111 seconds 
+  Import took 0.020197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_1.prefab
+  artifactKey: Guid(7a6fc26fee8904bf49e446ffaf880f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_1.prefab using Guid(7a6fc26fee8904bf49e446ffaf880f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff78166c105cbaff490847938549e40') in 0.017893 seconds 
+  Import took 0.022251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_1_square.prefab
+  artifactKey: Guid(cae15631505aa4b9e90ba7faf74a5ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_1_square.prefab using Guid(cae15631505aa4b9e90ba7faf74a5ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a284343392ed3e13b47fb1b4b73738c5') in 0.014448 seconds 
+  Import took 0.021586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_column_1.prefab
+  artifactKey: Guid(dd38b37b510544adbb92ccac89d70202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_column_1.prefab using Guid(dd38b37b510544adbb92ccac89d70202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73fa787ac4c56f6700bd500699005115') in 0.017663 seconds 
+  Import took 0.021919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_column_1.prefab
+  artifactKey: Guid(b67c34942f06641839dbb616d6b0423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_column_1.prefab using Guid(b67c34942f06641839dbb616d6b0423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e686c2b595b7861d96581b902d3d29') in 0.017348 seconds 
+  Import took 0.022103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_floor_stone_1.prefab
+  artifactKey: Guid(34d863027af504a739927df283d50f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_floor_stone_1.prefab using Guid(34d863027af504a739927df283d50f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '583aa4b5aa93f548e86e609549f0a862') in 0.018022 seconds 
+  Import took 0.024351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_tree_2.prefab
+  artifactKey: Guid(6a795ebc8fb3847c49aadadb856a09de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_tree_2.prefab using Guid(6a795ebc8fb3847c49aadadb856a09de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70265551db3c3553b55ef48619c40217') in 0.018293 seconds 
+  Import took 0.025207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_1.prefab
+  artifactKey: Guid(cda363d903f694736bfa8197fb777822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_1.prefab using Guid(cda363d903f694736bfa8197fb777822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3918164a609021f573c1811b38ae25c2') in 0.016786 seconds 
+  Import took 0.023164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_stairs_stone.prefab
+  artifactKey: Guid(e4707a0856ce84eee87e7e38fb543c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_stairs_stone.prefab using Guid(e4707a0856ce84eee87e7e38fb543c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a266f3de2aa969e57fcfd2f6b66ea2a6') in 0.016506 seconds 
+  Import took 0.022435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects
+  artifactKey: Guid(b0a85ddd620f947b5a0c1c158a6e9663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects using Guid(b0a85ddd620f947b5a0c1c158a6e9663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd806d60f91ece825c7d42d77f7d06b') in 0.008567 seconds 
+  Import took 0.013062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_1_corner.prefab
+  artifactKey: Guid(6014b3deef61d4ec694ebc6da6562e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_1_corner.prefab using Guid(6014b3deef61d4ec694ebc6da6562e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f8101e8569c15e7818439a8f4abf15') in 0.017450 seconds 
+  Import took 0.022220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_support_1.prefab
+  artifactKey: Guid(86da1ad6886b74c66bd850a4c1de0b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_support_1.prefab using Guid(86da1ad6886b74c66bd850a4c1de0b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e26a70693d38dab3cfbede04f5c9be7') in 0.018838 seconds 
+  Import took 0.023597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_column_2.prefab
+  artifactKey: Guid(a8ed52bf690a54ee2973e3ca03b2b3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_column_2.prefab using Guid(a8ed52bf690a54ee2973e3ca03b2b3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff3cc29464013e70439bc79fc212dab') in 0.017207 seconds 
+  Import took 0.021744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/GreekPack1Lite/Prefabs
+  artifactKey: Guid(754e8e6e26a6f43f5834fbccf29a1714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs using Guid(754e8e6e26a6f43f5834fbccf29a1714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de50ed14cbcd8086cd29a10aaac2494') in 0.008701 seconds 
+  Import took 0.013455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/GreekPack1Lite
+  artifactKey: Guid(df2d142924f034b4180bc48a382cc343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite using Guid(df2d142924f034b4180bc48a382cc343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0d48eda99fefa17c97f391788880a5') in 0.009727 seconds 
+  Import took 0.014573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_2_corner.prefab
+  artifactKey: Guid(52cf6fe79e5e8482286a21960567bc56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_2_corner.prefab using Guid(52cf6fe79e5e8482286a21960567bc56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7ba03315bb0fff014eced3e8047c38') in 0.020682 seconds 
+  Import took 0.025280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_corner.prefab
+  artifactKey: Guid(2a59eae8324ad4291b23e61f44e4ca11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_corner.prefab using Guid(2a59eae8324ad4291b23e61f44e4ca11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6824e2731ea108444fbfeb8546ceb7') in 0.016769 seconds 
+  Import took 0.022512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_1_short.prefab
+  artifactKey: Guid(5be5596e14f484ae49cec1307a7e7d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_1_short.prefab using Guid(5be5596e14f484ae49cec1307a7e7d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fa02d6a323de104ee1e04709608a31') in 0.018931 seconds 
+  Import took 0.023508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_stairs_stone_corner.prefab
+  artifactKey: Guid(59df19ce6f8e647159d9bee24a6a0af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_stairs_stone_corner.prefab using Guid(59df19ce6f8e647159d9bee24a6a0af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678a1b9d9a6a0f46656bd11232aa1767') in 0.017745 seconds 
+  Import took 0.023327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_2.prefab
+  artifactKey: Guid(040a9220107b540368b0b3f7e626f1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_2.prefab using Guid(040a9220107b540368b0b3f7e626f1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ca649e76077a5bae7b217fa257bd72d') in 0.018127 seconds 
+  Import took 0.022824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2.prefab
+  artifactKey: Guid(6b66ad43b05274620bc8695d0e1cebb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2.prefab using Guid(6b66ad43b05274620bc8695d0e1cebb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecee90f80c22dfaad8c7f85ca7df7e7') in 0.016245 seconds 
+  Import took 0.021621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_window.prefab
+  artifactKey: Guid(0f4a2c0456dca4089bef336bf9fe7ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_window.prefab using Guid(0f4a2c0456dca4089bef336bf9fe7ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b897d5714116465eb8154c022790464d') in 0.015736 seconds 
+  Import took 0.023505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 197.906563 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Buildings
+  artifactKey: Guid(f36fa3705d7484f1d9f59fc8570a908f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Buildings using Guid(f36fa3705d7484f1d9f59fc8570a908f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb56b60b13b6007dbcf8ac99c400bd40') in 0.011331 seconds 
+  Import took 0.015775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069148 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Buildings/Temple.prefab
+  artifactKey: Guid(9293442b452d64a09b2bbd4bd563a965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Buildings/Temple.prefab using Guid(9293442b452d64a09b2bbd4bd563a965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158d9946ab080d1be842ea1503224764') in 0.029434 seconds 
+  Import took 0.034856 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.021850 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.413 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1414ms)
+		BeginReloadAssembly (167ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (1160ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (316ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (559ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (434ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 2452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.6 MB.
+System memory in use after: 141.8 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2959.
+Total: 4.543000 ms (FindLiveObjects: 0.247800 ms CreateObjectMapping: 0.112800 ms MarkObjects: 4.070500 ms  DeleteObjects: 0.110200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1889.868043 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Nature/EA03_Plant_Grass_01e_PRE.prefab
+  artifactKey: Guid(99e86460e9bfcf644956d799c342fee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Nature/EA03_Plant_Grass_01e_PRE.prefab using Guid(99e86460e9bfcf644956d799c342fee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ad694918c3ad422b60c495d230ea41') in 0.067881 seconds 
+  Import took 0.074341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.647852 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Tree
+  artifactKey: Guid(d280625e28fbe7042a02ff6b87ad3772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Tree using Guid(d280625e28fbe7042a02ff6b87ad3772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6969421c5a3e2d6e83884f0c9995e03e') in 0.009440 seconds 
+  Import took 0.014149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033522 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Tree/EA03_Nature_Tree_01b_PRE.prefab
+  artifactKey: Guid(e03898b14a86f234a97b28e18ce3a154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Tree/EA03_Nature_Tree_01b_PRE.prefab using Guid(e03898b14a86f234a97b28e18ce3a154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00de780a951fb37899852ee38956d70') in 0.031767 seconds 
+  Import took 0.035998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Tree/EA03_Nature_Tree_03b_PRE.prefab
+  artifactKey: Guid(9cd2dd4d6232e7042ae210310ee2cd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Tree/EA03_Nature_Tree_03b_PRE.prefab using Guid(9cd2dd4d6232e7042ae210310ee2cd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557688638adda7848b39f1499f475b3d') in 0.024085 seconds 
+  Import took 0.028257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004315 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Tree/EA03_Nature_Tree_03b_PRE.prefab
+  artifactKey: Guid(9cd2dd4d6232e7042ae210310ee2cd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Nature/Tree/EA03_Nature_Tree_03b_PRE.prefab using Guid(9cd2dd4d6232e7042ae210310ee2cd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557688638adda7848b39f1499f475b3d') in 0.012344 seconds 
+  Import took 0.017619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.025894 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Environment/Rock
+  artifactKey: Guid(975f4a13291a8ee408d113c3f6807f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Environment/Rock using Guid(975f4a13291a8ee408d113c3f6807f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b41189a9d6093c70781dbea7847e472') in 0.008621 seconds 
+  Import took 0.013042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064354 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Environment/Rock/EA03_Environment_Rock_Mini_Head_01a_PRE.prefab
+  artifactKey: Guid(feae48108558fbc49aa10a5c915abd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Environment/Rock/EA03_Environment_Rock_Mini_Head_01a_PRE.prefab using Guid(feae48108558fbc49aa10a5c915abd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac634f01f9c473e67eafdb5fc3570189') in 0.020491 seconds 
+  Import took 0.024697 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1390ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (1177ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (318ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (553ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (89ms)
+				ProcessInitializeOnLoadAttributes (440ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 2452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.7 MB.
+System memory in use after: 141.9 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2963.
+Total: 4.289700 ms (FindLiveObjects: 0.830400 ms CreateObjectMapping: 0.148800 ms MarkObjects: 3.206400 ms  DeleteObjects: 0.102500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 539.886872 seconds.
+  path: Assets/LowpolyDungeonAssets
+  artifactKey: Guid(7ea53f9da81f951419ceae3ebdfb99da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets using Guid(7ea53f9da81f951419ceae3ebdfb99da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b5bd44753b1f3104ecf226b742de9a') in 0.011175 seconds 
+  Import took 0.021448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.639252 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets
+  artifactKey: Guid(a1b3beffb81a0544aa11efdab381992a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets using Guid(a1b3beffb81a0544aa11efdab381992a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf069a3c70c7169a3e54da7a35e51e1') in 0.006715 seconds 
+  Import took 0.011121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.265294 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs
+  artifactKey: Guid(0c8b222b59535474aa7bc1f03b18e569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs using Guid(0c8b222b59535474aa7bc1f03b18e569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c6fed9c8cee49f8a7e77fccf57276c') in 0.006759 seconds 
+  Import took 0.012623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.246439 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props
+  artifactKey: Guid(98fd0297ea505674b82d7b2b66d59b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props using Guid(98fd0297ea505674b82d7b2b66d59b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228419efb8607e302e642e9466a7024b') in 0.008081 seconds 
+  Import took 0.012565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037546 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Candle_Light.prefab
+  artifactKey: Guid(45145d7e161280c4a9c3b644a71752ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Candle_Light.prefab using Guid(45145d7e161280c4a9c3b644a71752ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9d61cd465328c1a89c024d2e4f4199') in 0.028233 seconds 
+  Import took 0.032437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Gold.prefab
+  artifactKey: Guid(2dad0aa7b14caba43b4f1ef064f01773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Gold.prefab using Guid(2dad0aa7b14caba43b4f1ef064f01773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1bbf01d14c93401e0901e5230cd569f') in 0.045674 seconds 
+  Import took 0.049363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionSmall_Red.prefab
+  artifactKey: Guid(a7a9ae6be1309724e81aea94e691f57a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionSmall_Red.prefab using Guid(a7a9ae6be1309724e81aea94e691f57a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa4bf6048f7419484cec2d1a5929a5c') in 0.013272 seconds 
+  Import took 0.017333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Candle_Threestick.prefab
+  artifactKey: Guid(d83500429c9ab314aad0bd5acaa3d13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Candle_Threestick.prefab using Guid(d83500429c9ab314aad0bd5acaa3d13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e67a3f3caefaa404adcc74ce4299b6f') in 0.015402 seconds 
+  Import took 0.019489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionSmall_Purple.prefab
+  artifactKey: Guid(5468182c834317a4e96f6830b1e87198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionSmall_Purple.prefab using Guid(5468182c834317a4e96f6830b1e87198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137a29cf14fb394f52fe684e6cf4ebbe') in 0.016752 seconds 
+  Import took 0.021205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenPlank_Big.prefab
+  artifactKey: Guid(a4b27d1f6343596459f4f29663d21eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenPlank_Big.prefab using Guid(a4b27d1f6343596459f4f29663d21eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0db40a081adfef3ecd33cd034d4a30') in 0.017050 seconds 
+  Import took 0.022234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Chest.prefab
+  artifactKey: Guid(9acd60bc8ae6a884c88aa0334f2026e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Chest.prefab using Guid(9acd60bc8ae6a884c88aa0334f2026e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9f921b5043880bfdeb6f10164403d4') in 0.018629 seconds 
+  Import took 0.023036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Crate.prefab
+  artifactKey: Guid(da853aa377ddc374d9acfb57eaa30736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Crate.prefab using Guid(da853aa377ddc374d9acfb57eaa30736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb05c812aa91b66bdd90f6db83782ad2') in 0.016880 seconds 
+  Import took 0.023264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_StoneHolder.prefab
+  artifactKey: Guid(1e7930c115bb2324ab4a060869e1153d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_StoneHolder.prefab using Guid(1e7930c115bb2324ab4a060869e1153d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d05b2d2e0da16107120b72a48a06902') in 0.016608 seconds 
+  Import took 0.021723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenPlank_Small.prefab
+  artifactKey: Guid(f465e0952c7b2a541bf573d5f7b1a0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenPlank_Small.prefab using Guid(f465e0952c7b2a541bf573d5f7b1a0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3baec9bad5b5bf591e7cce15c79d91a2') in 0.017391 seconds 
+  Import took 0.022585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Bowl_Purple.prefab
+  artifactKey: Guid(58b5497f239a3444ab5210cba6d51d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Bowl_Purple.prefab using Guid(58b5497f239a3444ab5210cba6d51d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b4663526f50797e76b6ed3b2666085') in 0.020408 seconds 
+  Import took 0.024954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_GoldStack.prefab
+  artifactKey: Guid(a40a8a92b560ab247bc4a1b6a6744af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_GoldStack.prefab using Guid(a40a8a92b560ab247bc4a1b6a6744af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b334ea12c21a55eef38d2a8128fde5') in 0.017056 seconds 
+  Import took 0.021268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Candle_Fivestick.prefab
+  artifactKey: Guid(ce232cf78c8168444b76d824e74bfabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Candle_Fivestick.prefab using Guid(ce232cf78c8168444b76d824e74bfabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6325acfc05b74cc2495e073d4895030') in 0.017644 seconds 
+  Import took 0.022111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Sword.prefab
+  artifactKey: Guid(d89394273f1af654aa51cffdd5422cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Sword.prefab using Guid(d89394273f1af654aa51cffdd5422cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f0bc0fa149f8b115c87a8426ccd6b9') in 0.017408 seconds 
+  Import took 0.022847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Barrel.prefab
+  artifactKey: Guid(d0291f7f977e5864fb0f103d60bfcdb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Barrel.prefab using Guid(d0291f7f977e5864fb0f103d60bfcdb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28ecce3433f980f2d9584bf90190832') in 0.016886 seconds 
+  Import took 0.021947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionBig_Red.prefab
+  artifactKey: Guid(bd7700e587e2d90439401d93324a23e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionBig_Red.prefab using Guid(bd7700e587e2d90439401d93324a23e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08292e334232f845574d4505e0ec88e8') in 0.019339 seconds 
+  Import took 0.024359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Vase_Red.prefab
+  artifactKey: Guid(a2655653c0c92564189c81dcaddbab0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Vase_Red.prefab using Guid(a2655653c0c92564189c81dcaddbab0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596dbb692189a1c467664362f8e16fb0') in 0.017850 seconds 
+  Import took 0.022868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionSmall_Blue.prefab
+  artifactKey: Guid(7960fe5fcaa206648ac0ee4c8975aaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionSmall_Blue.prefab using Guid(7960fe5fcaa206648ac0ee4c8975aaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06a90c9bb7544450547dd417f9d4c9f') in 0.017944 seconds 
+  Import took 0.023890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenTable_A.prefab
+  artifactKey: Guid(6213a4f72e6abac41bfae43ebbd3e07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenTable_A.prefab using Guid(6213a4f72e6abac41bfae43ebbd3e07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b8ec0d18c90f4d0e33eceab17eb7fd') in 0.017228 seconds 
+  Import took 0.022279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionBig_Blue.prefab
+  artifactKey: Guid(49bdb26a254ee6642babd4ee87b0175a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionBig_Blue.prefab using Guid(49bdb26a254ee6642babd4ee87b0175a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c1daa9e798a24f6bea78b80182155c') in 0.016942 seconds 
+  Import took 0.022843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Skeleton_BoneStack.prefab
+  artifactKey: Guid(81a12ca8de8c275408c1be2ba93bb5b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Skeleton_BoneStack.prefab using Guid(81a12ca8de8c275408c1be2ba93bb5b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf40316e2772ded462d61d754ff2af0') in 0.017051 seconds 
+  Import took 0.024363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Wall_LightStick.prefab
+  artifactKey: Guid(6dcdd798812b85b4796fb2548a3a311d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Wall_LightStick.prefab using Guid(6dcdd798812b85b4796fb2548a3a311d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4db2442aa35631bd3452011a3a4cfb3') in 0.017392 seconds 
+  Import took 0.022877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Wall_Frame.prefab
+  artifactKey: Guid(61d83192deb1b4d43b7f57a9bad73512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Wall_Frame.prefab using Guid(61d83192deb1b4d43b7f57a9bad73512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '418bc4212975c537abba547b5be7732e') in 0.016934 seconds 
+  Import took 0.022599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Coffin_Stone_WithCross.prefab
+  artifactKey: Guid(764de3605a1240a49b6fea00321a76a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Coffin_Stone_WithCross.prefab using Guid(764de3605a1240a49b6fea00321a76a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889807a86aab78dc0a94c06987154f96') in 0.018531 seconds 
+  Import took 0.022924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Lightstick.prefab
+  artifactKey: Guid(36d15536cd0fb9944a408bca92c38bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Lightstick.prefab using Guid(36d15536cd0fb9944a408bca92c38bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1773e74c2e90213338828d28474a56b3') in 0.018951 seconds 
+  Import took 0.023460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Candle 1.prefab
+  artifactKey: Guid(2410a0af3b049904ebdca16fced505e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Candle 1.prefab using Guid(2410a0af3b049904ebdca16fced505e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ca1a16c2c08071396da18ce74457b6') in 0.018799 seconds 
+  Import took 0.025777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Skeleton_Rib.prefab
+  artifactKey: Guid(98b3063d9360f9045ac20df774732c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Skeleton_Rib.prefab using Guid(98b3063d9360f9045ac20df774732c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42f96f9584a2dacfc5a7ac428d427f3') in 0.018045 seconds 
+  Import took 0.023340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Pail 1.prefab
+  artifactKey: Guid(080873035488e7646b854157918d1e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Pail 1.prefab using Guid(080873035488e7646b854157918d1e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa3e2c5997ceb641765fe27b56ef6552') in 0.018564 seconds 
+  Import took 0.025473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Skeleton_Bone.prefab
+  artifactKey: Guid(ceba66e7108261e49bd88983ba7ab196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Skeleton_Bone.prefab using Guid(ceba66e7108261e49bd88983ba7ab196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '624049b41e1ee0f5eb887d7be7b3af71') in 0.017762 seconds 
+  Import took 0.023197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Skeleton_Skull.prefab
+  artifactKey: Guid(a6708921f3701a44f976527854381306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Skeleton_Skull.prefab using Guid(a6708921f3701a44f976527854381306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53546457b6a260e1feaf2f4cf5f9263d') in 0.017333 seconds 
+  Import took 0.024012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/WallLightstick_Light.prefab
+  artifactKey: Guid(19862ba99da959f4aa655af92532f08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/WallLightstick_Light.prefab using Guid(19862ba99da959f4aa655af92532f08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3307f27003a21bd0c82fde779af2cbf') in 0.020532 seconds 
+  Import took 0.025423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Coffin_Stone.prefab
+  artifactKey: Guid(b4f48bc2f8f17e54394afc2b5602b5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Coffin_Stone.prefab using Guid(b4f48bc2f8f17e54394afc2b5602b5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92df31f0db5294fed898bf6aa329131b') in 0.017801 seconds 
+  Import took 0.024430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Pail.prefab
+  artifactKey: Guid(0aef1918dfffe17469df7e18774106be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Pail.prefab using Guid(0aef1918dfffe17469df7e18774106be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18c1dfe15372243cf143cfaff66cffa') in 0.018259 seconds 
+  Import took 0.022700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Vase_Purple.prefab
+  artifactKey: Guid(4a37330a454343646b36d9e7a99287a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Vase_Purple.prefab using Guid(4a37330a454343646b36d9e7a99287a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9893e3a349c43ebbcee323c7d66eeee8') in 0.019192 seconds 
+  Import took 0.023725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenChair_A.prefab
+  artifactKey: Guid(d135cb7117e54144cada4a5862c08560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenChair_A.prefab using Guid(d135cb7117e54144cada4a5862c08560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52dfb2c38fed03766f2cdeffd30765e4') in 0.018794 seconds 
+  Import took 0.023123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Bowl_Red.prefab
+  artifactKey: Guid(30d542452997d4a4d89592c34cb6d050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Bowl_Red.prefab using Guid(30d542452997d4a4d89592c34cb6d050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbedfb2451b5e546579e633185f25fec') in 0.018742 seconds 
+  Import took 0.024347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenTable_B.prefab
+  artifactKey: Guid(79bda8074c13e6e4aaa97d3f1ab680a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_WoodenTable_B.prefab using Guid(79bda8074c13e6e4aaa97d3f1ab680a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024bbbc6e2197e609b89fb17dfeb2c08') in 0.016258 seconds 
+  Import took 0.021046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_GoldPile.prefab
+  artifactKey: Guid(3283d79c16b08544894c4416b9eecfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_GoldPile.prefab using Guid(3283d79c16b08544894c4416b9eecfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2f6b550e6a7d4e230531fe1f88b4ba') in 0.018930 seconds 
+  Import took 0.024744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionBig_Purple.prefab
+  artifactKey: Guid(96dbb51ef19868e4caec5e820639cab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_PotionBig_Purple.prefab using Guid(96dbb51ef19868e4caec5e820639cab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ae4d9f20223454fda7818f95d966e9') in 0.017600 seconds 
+  Import took 0.024459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Bowl_Blue.prefab
+  artifactKey: Guid(9df79391ad49c314a937c546e819176f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Props/Props_Bowl_Blue.prefab using Guid(9df79391ad49c314a937c546e819176f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef31e729a074ee8745ac51cef645fe4d') in 0.018910 seconds 
+  Import took 0.025303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 509.015922 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor
+  artifactKey: Guid(4b170d8ddf5a68d418cc9f78d4e5fce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor using Guid(4b170d8ddf5a68d418cc9f78d4e5fce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b3bae348be364864b897573138c190') in 0.007567 seconds 
+  Import took 0.014557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035924 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_1Plank_Stone_Small.prefab
+  artifactKey: Guid(b07cad47c7d616d479d277a906a9c0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_1Plank_Stone_Small.prefab using Guid(b07cad47c7d616d479d277a906a9c0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f79eeaf2af921a42d4d4865bb0ae00') in 0.018153 seconds 
+  Import took 0.024115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_Continuous_Wooden.prefab
+  artifactKey: Guid(1198403b1e3158c4cb509a07aa34d59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_Continuous_Wooden.prefab using Guid(1198403b1e3158c4cb509a07aa34d59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8a1061dc3b8da538fbe060ff086950') in 0.015719 seconds 
+  Import took 0.020153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_Curve_Stone.prefab
+  artifactKey: Guid(85d380e28b557ba42bb7859261b1262e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_Curve_Stone.prefab using Guid(85d380e28b557ba42bb7859261b1262e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc6ef5ec2868dc0031f101c5981b218') in 0.019572 seconds 
+  Import took 0.026451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_StandAlone_Stone_Big 1.prefab
+  artifactKey: Guid(bb7a3a124bcb46944b011fa9ea47cd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_StandAlone_Stone_Big 1.prefab using Guid(bb7a3a124bcb46944b011fa9ea47cd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b63061d494fbfc92ebabc977996480') in 0.019497 seconds 
+  Import took 0.025062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_3Plank_Stone_Big.prefab
+  artifactKey: Guid(efae8855cfb60984ca15c8f28cef128d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_3Plank_Stone_Big.prefab using Guid(efae8855cfb60984ca15c8f28cef128d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa9f9088aadf18f5752da1c53189636') in 0.023303 seconds 
+  Import took 0.028548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_Continuous_Wooden_WithHandle.prefab
+  artifactKey: Guid(1ed3981d217d5674eb2c452d054daa6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_Continuous_Wooden_WithHandle.prefab using Guid(1ed3981d217d5674eb2c452d054daa6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c3a5f1b5ba36d5df3545e0a72009ee') in 0.021497 seconds 
+  Import took 0.029007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_StandAlone_Wooden_WithHandle.prefab
+  artifactKey: Guid(805876addf2a9d44bb245f90acd502ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_StandAlone_Wooden_WithHandle.prefab using Guid(805876addf2a9d44bb245f90acd502ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8171d9febb67b8de52bae3d2c5ec9499') in 0.019181 seconds 
+  Import took 0.024122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_StandAlone_Wooden.prefab
+  artifactKey: Guid(2e1e322a5f53e044fb27e266a6131e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_StandAlone_Wooden.prefab using Guid(2e1e322a5f53e044fb27e266a6131e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef9558b10f49ba04cf21296cbdd8e43') in 0.019499 seconds 
+  Import took 0.025134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_3Plank_Wooden.prefab
+  artifactKey: Guid(3e478002b47486d4f950d8cfd1d23557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_3Plank_Wooden.prefab using Guid(3e478002b47486d4f950d8cfd1d23557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62fdea94a72ecca19e56444cef987d01') in 0.019327 seconds 
+  Import took 0.024545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_Tile_Stone_A (1).prefab
+  artifactKey: Guid(475b905fe3b32864fb3448b79d6bc815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_Tile_Stone_A (1).prefab using Guid(475b905fe3b32864fb3448b79d6bc815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3499d408abcd29ac7b769041f7fddd') in 0.019479 seconds 
+  Import took 0.024881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_3Plank_Stone_Small.prefab
+  artifactKey: Guid(9b5514e3a83a57e45a255824382d69c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Floor_3Plank_Stone_Small.prefab using Guid(9b5514e3a83a57e45a255824382d69c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79eab26cade22ea96dde89a9c291cb88') in 0.020717 seconds 
+  Import took 0.025801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_StandAlone_Stone_Big.prefab
+  artifactKey: Guid(38172208452352342af0d81699af590c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Floor/Stairs_StandAlone_Stone_Big.prefab using Guid(38172208452352342af0d81699af590c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb6d1ba28cb4b95ec35e8325989d986') in 0.025726 seconds 
+  Import took 0.032838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.035521 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall
+  artifactKey: Guid(463926339b1c2044cb6e395d0f20c195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall using Guid(463926339b1c2044cb6e395d0f20c195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477c7a6d53f241224b179fcb6333e479') in 0.007110 seconds 
+  Import took 0.012211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052332 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Pillar_Stone.prefab
+  artifactKey: Guid(296fc91a20f2cfe4c97182c3c87b9aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Pillar_Stone.prefab using Guid(296fc91a20f2cfe4c97182c3c87b9aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9216d3a1579dd2086692cf2b2ae501cb') in 0.013173 seconds 
+  Import took 0.017731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Wall_Stone_Window.prefab
+  artifactKey: Guid(4da9078f5301e924ea052376eefae3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Wall_Stone_Window.prefab using Guid(4da9078f5301e924ea052376eefae3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11cd2ff08081f47cc240e453ddebbc06') in 0.013277 seconds 
+  Import took 0.018347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Wall_Stone_Normal (3).prefab
+  artifactKey: Guid(2d0f20d11945dcf40bc89cbe6339221c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Wall_Stone_Normal (3).prefab using Guid(2d0f20d11945dcf40bc89cbe6339221c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94344c1f6d21b4c81d16e85605b6ebf') in 0.017338 seconds 
+  Import took 0.022422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Wall_Stone_Doorway.prefab
+  artifactKey: Guid(f1035c4060e022c46a6732040e129f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Wall_Stone_Doorway.prefab using Guid(f1035c4060e022c46a6732040e129f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9101d215de686e9889a2e2cff21498') in 0.016546 seconds 
+  Import took 0.020835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Pillar_Stone_Corner.prefab
+  artifactKey: Guid(18951ccf015a1da4bb5df3d63e1077f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Pillar_Stone_Corner.prefab using Guid(18951ccf015a1da4bb5df3d63e1077f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa4756a301a2d0ab067daea1c3a579e') in 0.021357 seconds 
+  Import took 0.025491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Wall_Stone_WoodenDoor.prefab
+  artifactKey: Guid(e95a480556ce77345b2be1163d17a4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyDungeonAssets/Assets/Prefabs/Wall/Wall_Stone_WoodenDoor.prefab using Guid(e95a480556ce77345b2be1163d17a4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b32263e66f3627c9c852b7c3093df62') in 0.019223 seconds 
+  Import took 0.024427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 402.241597 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA03_Items_House_Spoon_01a_PRE.prefab
+  artifactKey: Guid(49cb1db37d2f2bf40947e40e03f795b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA03_Items_House_Spoon_01a_PRE.prefab using Guid(49cb1db37d2f2bf40947e40e03f795b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfef28fb4160c705d53235c9a0cf2a75') in 0.017177 seconds 
+  Import took 0.022530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007248 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA03_Items_House_Spoon_01a_PRE.prefab
+  artifactKey: Guid(49cb1db37d2f2bf40947e40e03f795b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA03_Items_House_Spoon_01a_PRE.prefab using Guid(49cb1db37d2f2bf40947e40e03f795b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfef28fb4160c705d53235c9a0cf2a75') in 0.010295 seconds 
+  Import took 0.014528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.644370 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA03_Items_House_Spoon_01a_PRE.prefab
+  artifactKey: Guid(49cb1db37d2f2bf40947e40e03f795b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Items/Crockery/EA03_Items_House_Spoon_01a_PRE.prefab using Guid(49cb1db37d2f2bf40947e40e03f795b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a11911ff9716ca1c593bc568e3ceec') in 0.015820 seconds 
+  Import took 0.021791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.541766 seconds.
+  path: Assets/BrokenVector
+  artifactKey: Guid(811307a2d222df34486d4adea80040ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector using Guid(811307a2d222df34486d4adea80040ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ee356f2adc2c6b076ca727cc1123a3') in 0.006976 seconds 
+  Import took 0.012565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.021395 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack
+  artifactKey: Guid(fe75cbfbde034104291466020cdefc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack using Guid(fe75cbfbde034104291466020cdefc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4937ed91db762e16643c2702aab275') in 0.007860 seconds 
+  Import took 0.013064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.333216 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs
+  artifactKey: Guid(739cb2b891d777d4381761a57c0e04f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs using Guid(739cb2b891d777d4381761a57c0e04f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d0d87d5818ad228adcb34f3fef102b') in 0.007021 seconds 
+  Import took 0.011237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.021964 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects
+  artifactKey: Guid(1c6941bad723e984dba9697665c5e1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects using Guid(1c6941bad723e984dba9697665c5e1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a663a53381d4d5a990bceb60320dff02') in 0.007137 seconds 
+  Import took 0.011793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062915 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Beaker_Empty.prefab
+  artifactKey: Guid(3f45d89cb0c87854fbda8401ab35e5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Beaker_Empty.prefab using Guid(3f45d89cb0c87854fbda8401ab35e5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f3564441dab29d3c789ca4fa04c42e') in 0.183701 seconds 
+  Import took 0.187678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Small_Brown.prefab
+  artifactKey: Guid(cd2c04b39e3823a47a81bb93247b2d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Small_Brown.prefab using Guid(cd2c04b39e3823a47a81bb93247b2d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e10c985724b65546370a6ac2b8a530f') in 0.013502 seconds 
+  Import took 0.017160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Shield.prefab
+  artifactKey: Guid(628b35708d1b48849ae6ee2b707ee8f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Shield.prefab using Guid(628b35708d1b48849ae6ee2b707ee8f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca9ce4ad3577b4824100e2f44035542') in 0.015723 seconds 
+  Import took 0.021480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Bone.prefab
+  artifactKey: Guid(5c58fb2d7ad52444f85fc37bcad1f0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Bone.prefab using Guid(5c58fb2d7ad52444f85fc37bcad1f0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fc7994f0e7e228cea25115f4e2d54a8') in 0.016546 seconds 
+  Import took 0.020828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Plant_Root.prefab
+  artifactKey: Guid(dd46835ba98bdda46807dfc0f3f9c889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Plant_Root.prefab using Guid(dd46835ba98bdda46807dfc0f3f9c889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f363c24c3fe433b96c0a8036e7a240') in 0.015798 seconds 
+  Import took 0.019852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/FirewoodStack.prefab
+  artifactKey: Guid(e41d746696116cc41881f2c82c8aa7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/FirewoodStack.prefab using Guid(e41d746696116cc41881f2c82c8aa7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c1974dadd6263c8a2b6592aaf78215') in 0.016837 seconds 
+  Import took 0.021278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Knife.prefab
+  artifactKey: Guid(09853b7f062375a438e1fcc026b8e7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Knife.prefab using Guid(09853b7f062375a438e1fcc026b8e7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7cdbfd93d811dbef9610266953f52e') in 0.018306 seconds 
+  Import took 0.024485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Green.prefab
+  artifactKey: Guid(6c83909939429c1478d2869f00f95462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Green.prefab using Guid(6c83909939429c1478d2869f00f95462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49af622d6d852380137d7677f1e10898') in 0.019025 seconds 
+  Import took 0.023255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Potion_Green.prefab
+  artifactKey: Guid(9122802f90381f84d8b8a93daaf9717a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Potion_Green.prefab using Guid(9122802f90381f84d8b8a93daaf9717a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206c1e51d5187afb4fd8c81e0f92d56b') in 0.017911 seconds 
+  Import took 0.023800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Firewood.prefab
+  artifactKey: Guid(3749b76f43b6f214f8b7c9f88c6ba504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Firewood.prefab using Guid(3749b76f43b6f214f8b7c9f88c6ba504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bafc7e2668eeb3ce374714015d1de954') in 0.016255 seconds 
+  Import took 0.021822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Flask.prefab
+  artifactKey: Guid(36e40447bab70064ea6c6858147b7c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Flask.prefab using Guid(36e40447bab70064ea6c6858147b7c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27158cac489824a8089c2d602b8fe03') in 0.017370 seconds 
+  Import took 0.023236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Brown.prefab
+  artifactKey: Guid(20dc69066f16acc48b952aed5b788376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Brown.prefab using Guid(20dc69066f16acc48b952aed5b788376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637bfdb0a4d70c519016a42f0a48c74f') in 0.018997 seconds 
+  Import took 0.023584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Jar_Big.prefab
+  artifactKey: Guid(741afadbc8ee8d6498f2ac5ed155cefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Jar_Big.prefab using Guid(741afadbc8ee8d6498f2ac5ed155cefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51dabba0c016007c13b77b08493d1e8f') in 0.125234 seconds 
+  Import took 0.129494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Elder.prefab
+  artifactKey: Guid(5bdc879930154d4469c6a66a2e552eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Elder.prefab using Guid(5bdc879930154d4469c6a66a2e552eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd434063798e0ca1c25c38d57c68121') in 0.014191 seconds 
+  Import took 0.017865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Open.prefab
+  artifactKey: Guid(6353832c19eb9674b8143b16ab17c820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Open.prefab using Guid(6353832c19eb9674b8143b16ab17c820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a725d988882a0287d99913f6e95938d2') in 0.014886 seconds 
+  Import took 0.019111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/CrystalBall.prefab
+  artifactKey: Guid(7234c83608121694ebb0c6175d854ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/CrystalBall.prefab using Guid(7234c83608121694ebb0c6175d854ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '293186a6da46c2fadc2a8664b8d7c0c8') in 0.016999 seconds 
+  Import took 0.023156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000875 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_DeepRed.prefab
+  artifactKey: Guid(f70ad1fd5f3819b42aaeca6741dfa8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_DeepRed.prefab using Guid(f70ad1fd5f3819b42aaeca6741dfa8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba76671f1b1eb368b55ba892b19357b') in 0.017808 seconds 
+  Import took 0.022515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Cauldron_Small_Stand.prefab
+  artifactKey: Guid(0d858551c205152499f976761ecef4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Cauldron_Small_Stand.prefab using Guid(0d858551c205152499f976761ecef4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4201fb71e91cf262ffb9c73002a463f9') in 0.018995 seconds 
+  Import took 0.023456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Small_DeepRed.prefab
+  artifactKey: Guid(c72dbddba36dfd14c914d8986eb9abd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Small_DeepRed.prefab using Guid(c72dbddba36dfd14c914d8986eb9abd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc905208633ff9b3227f6d49b6992b1') in 0.018745 seconds 
+  Import took 0.025063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Chandelier_Small.prefab
+  artifactKey: Guid(bf7a7fc00791eb945a5412768a68fffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Chandelier_Small.prefab using Guid(bf7a7fc00791eb945a5412768a68fffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10caaef1f9eb508074388cd9754bd7c1') in 0.016532 seconds 
+  Import took 0.021847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Key_Golden.prefab
+  artifactKey: Guid(6b07ab31d47036645833e234477aa56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Key_Golden.prefab using Guid(6b07ab31d47036645833e234477aa56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86323761b1648e8c9d826302c609051e') in 0.017560 seconds 
+  Import took 0.023791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Stack.prefab
+  artifactKey: Guid(2e12945ebe1b72244a54adef7e7dc627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Stack.prefab using Guid(2e12945ebe1b72244a54adef7e7dc627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e90fdc623f72c7f6e86f8f06c242963d') in 0.018624 seconds 
+  Import took 0.023921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Spear.prefab
+  artifactKey: Guid(fae58f9aaf72c194cb3776beafb8b753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Spear.prefab using Guid(fae58f9aaf72c194cb3776beafb8b753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4959db11f972ef3deedeb809882349') in 0.020838 seconds 
+  Import took 0.025920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Big_Green.prefab
+  artifactKey: Guid(52cfc34cb5ec6b84bb03dc381684a09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Big_Green.prefab using Guid(52cfc34cb5ec6b84bb03dc381684a09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a71aadb7b247033ec52a4d8638321885') in 0.018334 seconds 
+  Import took 0.024520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Key_Silver.prefab
+  artifactKey: Guid(fbac80f280a03844bbdc56acff09ba24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Key_Silver.prefab using Guid(fbac80f280a03844bbdc56acff09ba24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4287f44b1d36ac9dbd2c5a0fc8eb4790') in 0.017262 seconds 
+  Import took 0.023922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Big.prefab
+  artifactKey: Guid(16e7a0741a070bb47bebfd085ef8cddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Big.prefab using Guid(16e7a0741a070bb47bebfd085ef8cddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c370cba71901e46a49bf967fc28cecb') in 0.017639 seconds 
+  Import took 0.022063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Small.prefab
+  artifactKey: Guid(113a04b44464ee141bd913e9283f2f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Small.prefab using Guid(113a04b44464ee141bd913e9283f2f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0961ce6ef00ba690a7481ad45d48dcd8') in 0.018239 seconds 
+  Import took 0.022737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Ivy_Leaf.prefab
+  artifactKey: Guid(464587446a6b1ac4f8c64864139e9f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Ivy_Leaf.prefab using Guid(464587446a6b1ac4f8c64864139e9f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50627c7c0279938dedfec63c990079a2') in 0.019952 seconds 
+  Import took 0.025183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Sword.prefab
+  artifactKey: Guid(3c69fa93618176a43962f23c5526778b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Sword.prefab using Guid(3c69fa93618176a43962f23c5526778b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4377808488dc332dad20e0c5b9aa4d') in 0.018300 seconds 
+  Import took 0.023484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Cauldron_Small.prefab
+  artifactKey: Guid(429d9f80ea6c7c1499a60be9a65c2613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Cauldron_Small.prefab using Guid(429d9f80ea6c7c1499a60be9a65c2613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95108a7f88b0193664b50900d496c5c0') in 0.021986 seconds 
+  Import took 0.029831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Inkwell.prefab
+  artifactKey: Guid(b402bc0133532434b873cefde0db7814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Inkwell.prefab using Guid(b402bc0133532434b873cefde0db7814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f0c54d4081987a008b4cafcb9150a5') in 0.021080 seconds 
+  Import took 0.026254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/CrystalBall_Stand.prefab
+  artifactKey: Guid(ab52575a7bb2b244a9dd104afe101920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/CrystalBall_Stand.prefab using Guid(ab52575a7bb2b244a9dd104afe101920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964a315e89ea88ef9fa0f5281e85923c') in 0.019898 seconds 
+  Import took 0.025481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Red.prefab
+  artifactKey: Guid(049d090c06dfbaf45959b2022ee91789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Red.prefab using Guid(049d090c06dfbaf45959b2022ee91789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0d26da1ff6eecc886c5b66f9b2d44a') in 0.018035 seconds 
+  Import took 0.025764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Fork.prefab
+  artifactKey: Guid(85ce586e84eb148469341f160fb9c1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Fork.prefab using Guid(85ce586e84eb148469341f160fb9c1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226569d881a57675a23b1ff19df5fd2f') in 0.021299 seconds 
+  Import took 0.028316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Skull.prefab
+  artifactKey: Guid(a13b8883072533940b5bcfde3cbc03a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Skull.prefab using Guid(a13b8883072533940b5bcfde3cbc03a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd43ce05c8d26a8c6d5f586bba9f1276d') in 0.020273 seconds 
+  Import took 0.025518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Big_DeepRed.prefab
+  artifactKey: Guid(6e5642efdd933964d9719bb799658cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Big_DeepRed.prefab using Guid(6e5642efdd933964d9719bb799658cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298e272ff7e7485fdaa0a15a5791a45e') in 0.019029 seconds 
+  Import took 0.024870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Big_Brown.prefab
+  artifactKey: Guid(2569a62b0421feb4fbb320665445719f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Big_Brown.prefab using Guid(2569a62b0421feb4fbb320665445719f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a95741767525435d8178c15ddbb51694') in 0.020666 seconds 
+  Import took 0.026233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Ivy_Branch.prefab
+  artifactKey: Guid(c5bbeb82695369241958e411b793cd47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Ivy_Branch.prefab using Guid(c5bbeb82695369241958e411b793cd47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6dc5cdf36703ac0012b4a73fe1ba31') in 0.020238 seconds 
+  Import took 0.027891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Plate.prefab
+  artifactKey: Guid(3e776a5d11f6ff7479236101fa9f7d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Plate.prefab using Guid(3e776a5d11f6ff7479236101fa9f7d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8bf8967cd184b2cc8ff7aa1aa3b463') in 0.021389 seconds 
+  Import took 0.028093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Jar_Empty.prefab
+  artifactKey: Guid(4e50b9f00a96eb744a04921c3be28bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Jar_Empty.prefab using Guid(4e50b9f00a96eb744a04921c3be28bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4c4dc3befabcdd1b3fe3d8d07fbde3') in 0.019405 seconds 
+  Import took 0.024572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Small_Green.prefab
+  artifactKey: Guid(cd543225cb67e3649a9ff72bb9a5dbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Small_Green.prefab using Guid(cd543225cb67e3649a9ff72bb9a5dbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062f57cc48b2336622db07667db2da4c') in 0.023067 seconds 
+  Import took 0.028777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Key_Rusty.prefab
+  artifactKey: Guid(1a4ce7ed7389af14cbc47a4b3ba8a164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Key_Rusty.prefab using Guid(1a4ce7ed7389af14cbc47a4b3ba8a164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7acaeb5551291ca4ee8dfac399fd2325') in 0.020251 seconds 
+  Import took 0.026812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Potion_Red.prefab
+  artifactKey: Guid(a84a636a35a83fe408bd4b3d8c2b8058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Potion_Red.prefab using Guid(a84a636a35a83fe408bd4b3d8c2b8058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82eadae242679a4e29f09089d202525') in 0.021415 seconds 
+  Import took 0.026762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001057 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Tree_Branch.prefab
+  artifactKey: Guid(bbd85e700f0f23546bfd0547bf83ad02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Tree_Branch.prefab using Guid(bbd85e700f0f23546bfd0547bf83ad02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69bf2b12705e85e326f899cd81f9fba4') in 0.020128 seconds 
+  Import took 0.027124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Beaker_Full_Var2.prefab
+  artifactKey: Guid(5d78c38b5abad5c4f8b593c72ff85f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Beaker_Full_Var2.prefab using Guid(5d78c38b5abad5c4f8b593c72ff85f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b69a495ecc3af1cb899687041beae710') in 0.021488 seconds 
+  Import took 0.028742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Quill.prefab
+  artifactKey: Guid(01b18908cb794a34a8fc133e9f4ec355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Quill.prefab using Guid(01b18908cb794a34a8fc133e9f4ec355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2f9d7619128322aee3a7dfdc617e1e') in 0.019705 seconds 
+  Import took 0.024887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Plate_Small.prefab
+  artifactKey: Guid(c4546ca0c38ce86408e330622320960c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Plate_Small.prefab using Guid(c4546ca0c38ce86408e330622320960c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8caf02880ccfe28cb0130734138148a4') in 0.022136 seconds 
+  Import took 0.027946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Beaker_Full_Var1.prefab
+  artifactKey: Guid(6e0bde38fc030774cb8444009c09e62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Beaker_Full_Var1.prefab using Guid(6e0bde38fc030774cb8444009c09e62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc35d859b866504b5dfdff09193104d5') in 0.026445 seconds 
+  Import took 0.033130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Open.prefab
+  artifactKey: Guid(571f5dec7e36f1d44bd714b42ba5c2ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Scroll_Open.prefab using Guid(571f5dec7e36f1d44bd714b42ba5c2ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea09ed24ed1070724c2c97e3f301e41') in 0.023746 seconds 
+  Import took 0.030245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Beaker_Small.prefab
+  artifactKey: Guid(f86dc25794fda774aa908152821e0248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Beaker_Small.prefab using Guid(f86dc25794fda774aa908152821e0248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff1c3ac7d43d0127d0167b60b51aeeb') in 0.019584 seconds 
+  Import took 0.025908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Big_Red.prefab
+  artifactKey: Guid(9219eeec429c86b459f29c67fd3e5e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Big_Red.prefab using Guid(9219eeec429c86b459f29c67fd3e5e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17dcd35653b12cb7609f4edc3f1d9474') in 0.020703 seconds 
+  Import took 0.026164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Small_Red.prefab
+  artifactKey: Guid(d5ab9ab84b099424e99b433567330718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Book_Small_Red.prefab using Guid(d5ab9ab84b099424e99b433567330718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783c87aa7e4b7ee0d651344ced8ca352') in 0.020385 seconds 
+  Import took 0.026935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Jar_Full.prefab
+  artifactKey: Guid(8b6836c79d4a1cc40bb604b92317b2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Jar_Full.prefab using Guid(8b6836c79d4a1cc40bb604b92317b2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8472d5939774d5b751d75597874161') in 0.018784 seconds 
+  Import took 0.024282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Potion_Blue.prefab
+  artifactKey: Guid(dfa07040f3b61f648bc8ad1291f6cbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Objects/Potion_Blue.prefab using Guid(dfa07040f3b61f648bc8ad1291f6cbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cccb509b3897184760615caf147201d') in 0.020870 seconds 
+  Import took 0.026530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.902536 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture
+  artifactKey: Guid(f8259728d0016d047b2343f6c0198882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture using Guid(f8259728d0016d047b2343f6c0198882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4e7655c92a6d5ce0df724cfb678d26') in 0.006988 seconds 
+  Import took 0.012572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047593 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Amphora.prefab
+  artifactKey: Guid(afc3fedc78427f04097996d062288c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Amphora.prefab using Guid(afc3fedc78427f04097996d062288c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3ed748e0f4040670ea65befbe724b7') in 0.013118 seconds 
+  Import took 0.017905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Amphora_Stand.prefab
+  artifactKey: Guid(f5709a3035aa0ca4d94745aaf44038fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Amphora_Stand.prefab using Guid(f5709a3035aa0ca4d94745aaf44038fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7282677e0bc1ad23e7223b20dbb407ef') in 0.014034 seconds 
+  Import took 0.018131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Cauldron_Full.prefab
+  artifactKey: Guid(d6ade90f396755c42b43f8006323ec2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Cauldron_Full.prefab using Guid(d6ade90f396755c42b43f8006323ec2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6b824d9533a693b7c7998a8401d05d') in 0.113291 seconds 
+  Import took 0.117613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Fireplace.prefab
+  artifactKey: Guid(55320ad6284175349b1008aaf7238c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Fireplace.prefab using Guid(55320ad6284175349b1008aaf7238c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d2d4d3c8311b6c9cd4d6ab02c939a9') in 0.019906 seconds 
+  Import took 0.024294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Shelf.prefab
+  artifactKey: Guid(cb9bc6b96d830b64293c9fdff99b1743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Shelf.prefab using Guid(cb9bc6b96d830b64293c9fdff99b1743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943f567109ad3ab7852ff086075330a3') in 0.017337 seconds 
+  Import took 0.023208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Barrel_Big.prefab
+  artifactKey: Guid(d4fdeae2fb6f5d245b9a6116920d503e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Barrel_Big.prefab using Guid(d4fdeae2fb6f5d245b9a6116920d503e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2f8e6e8ca8e860630f92a57a5c3342') in 0.018129 seconds 
+  Import took 0.023358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Table_Big.prefab
+  artifactKey: Guid(0a7f51b5f4ba6294a889f661114da0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Table_Big.prefab using Guid(0a7f51b5f4ba6294a889f661114da0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f550681381aa9840a5657438e0910e85') in 0.018339 seconds 
+  Import took 0.022763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Barrel_Closed.prefab
+  artifactKey: Guid(5adaedd4c0081614da171fecdf6bbd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Barrel_Closed.prefab using Guid(5adaedd4c0081614da171fecdf6bbd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1522ddc6ca59e57f46bab392581a82cd') in 0.017300 seconds 
+  Import took 0.023355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Chair.prefab
+  artifactKey: Guid(dc02f77b0506f764c9d22c61c681c4af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Chair.prefab using Guid(dc02f77b0506f764c9d22c61c681c4af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb54213f7bda8ab1d3a1d9ca0a1dd6b') in 0.096636 seconds 
+  Import took 0.100790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Bag.prefab
+  artifactKey: Guid(6d74876d99d459743af39429f3ef69b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Bag.prefab using Guid(6d74876d99d459743af39429f3ef69b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4394729f7d6353423ff5748b3919051') in 0.014519 seconds 
+  Import took 0.018571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/CoatHook_Full.prefab
+  artifactKey: Guid(70ecfb3272db03f45944e59708b277bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/CoatHook_Full.prefab using Guid(70ecfb3272db03f45944e59708b277bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b657b77e4f82e75e78b0c6878d495eae') in 0.017478 seconds 
+  Import took 0.024123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/CoatHook.prefab
+  artifactKey: Guid(842735df7d8eccf4c8d59febf0d5988f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/CoatHook.prefab using Guid(842735df7d8eccf4c8d59febf0d5988f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31af5e1d9f83160be149e5e8dc36475c') in 0.017531 seconds 
+  Import took 0.022300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/ChestSmall_Open.prefab
+  artifactKey: Guid(bb51cc1ba95470d4b8f8db300be8879e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/ChestSmall_Open.prefab using Guid(bb51cc1ba95470d4b8f8db300be8879e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad7f9ddb3824a7d26d1dbf100137a9d') in 0.018545 seconds 
+  Import took 0.023551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Chest_Closed.prefab
+  artifactKey: Guid(820ba2299eed1da49a51bd7088c76f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Chest_Closed.prefab using Guid(820ba2299eed1da49a51bd7088c76f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4032c5a98b946efd3fb1c811ff9cad3') in 0.018837 seconds 
+  Import took 0.024715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Desk.prefab
+  artifactKey: Guid(06b9d15b7d33e854cb23fe58a33238aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Desk.prefab using Guid(06b9d15b7d33e854cb23fe58a33238aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a62be9f3044bb156713776ebea6b53') in 0.019172 seconds 
+  Import took 0.024027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/ChestSmall_Closed.prefab
+  artifactKey: Guid(7e10b708edc99884980e47d51381a8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/ChestSmall_Closed.prefab using Guid(7e10b708edc99884980e47d51381a8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80d008bf78ade24d7b18e74a4865860') in 0.019349 seconds 
+  Import took 0.025603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Cauldron_Empty.prefab
+  artifactKey: Guid(9ebd52a346641ab469fe9220a7c27ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Cauldron_Empty.prefab using Guid(9ebd52a346641ab469fe9220a7c27ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bcd302cf7481ff416007fd7c4b464a') in 0.018235 seconds 
+  Import took 0.023732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Steps_Small.prefab
+  artifactKey: Guid(bca29393fb49e1e4d862950ab1749426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Steps_Small.prefab using Guid(bca29393fb49e1e4d862950ab1749426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14c0ec80806f7ff87b5cb9cd054b86d') in 0.018914 seconds 
+  Import took 0.026115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Shelf_Wall.prefab
+  artifactKey: Guid(559f839e0f294cf499731ff6070352ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Shelf_Wall.prefab using Guid(559f839e0f294cf499731ff6070352ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f78aaf0279b7224ba829384639a488') in 0.029326 seconds 
+  Import took 0.036289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Bench.prefab
+  artifactKey: Guid(ad2e0cfa2e8733c46ae66652ae0714f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Bench.prefab using Guid(ad2e0cfa2e8733c46ae66652ae0714f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87bd2dc7406c165f0e2dd9448fe8bc5d') in 0.024231 seconds 
+  Import took 0.032094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Barrel_Open.prefab
+  artifactKey: Guid(591bed4d8c69b824c81e7261d794d9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Barrel_Open.prefab using Guid(591bed4d8c69b824c81e7261d794d9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398788e9568530e80e47ec712fd17e8c') in 0.025333 seconds 
+  Import took 0.031174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/WeaponRack_Big.prefab
+  artifactKey: Guid(797162f1e2611d14bac618083727de40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/WeaponRack_Big.prefab using Guid(797162f1e2611d14bac618083727de40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d65e7053005929e5f2cd474c4ead85f') in 0.024311 seconds 
+  Import took 0.029570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Carpet_Green.prefab
+  artifactKey: Guid(ac1fd1afdb0602f428b3d53dcc62d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Carpet_Green.prefab using Guid(ac1fd1afdb0602f428b3d53dcc62d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c56cd5c664328845b12ace69c6448b') in 0.022503 seconds 
+  Import took 0.033857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Carpet_Red.prefab
+  artifactKey: Guid(1e711044cbc639d44aa004669771969e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Carpet_Red.prefab using Guid(1e711044cbc639d44aa004669771969e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa5303ab12718eed648e760fd33f3ac') in 0.022289 seconds 
+  Import took 0.031097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Stool_round.prefab
+  artifactKey: Guid(a8acfdda1f8f6064bbf4e2fe34b27e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Stool_round.prefab using Guid(a8acfdda1f8f6064bbf4e2fe34b27e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529f63618a688069ef2774334853650c') in 0.023014 seconds 
+  Import took 0.029100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Stool_square.prefab
+  artifactKey: Guid(a05d4d94c1106004abcd87df4b8f1777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Stool_square.prefab using Guid(a05d4d94c1106004abcd87df4b8f1777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8316be88133484b9b32255a7c38532') in 0.020235 seconds 
+  Import took 0.026596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/WeaponRack_Small.prefab
+  artifactKey: Guid(33b88a355dbcf1249aeafebe7d0f5879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/WeaponRack_Small.prefab using Guid(33b88a355dbcf1249aeafebe7d0f5879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09be027847d2bff0dbb7908751beb7e4') in 0.023266 seconds 
+  Import took 0.029213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Chest_Open.prefab
+  artifactKey: Guid(2df497991c3232a4189551caaab8b8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Chest_Open.prefab using Guid(2df497991c3232a4189551caaab8b8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313ea7d05f27dd3b2459d28126416b2d') in 0.020271 seconds 
+  Import took 0.029049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000932 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Bucket.prefab
+  artifactKey: Guid(6eee7306fe377634f9645a176df43265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Bucket.prefab using Guid(6eee7306fe377634f9645a176df43265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7dc6f2d79d52286517dc7a609cd77e') in 0.020632 seconds 
+  Import took 0.026358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Table_Small.prefab
+  artifactKey: Guid(ce285a7430946e24ca0a9218777a7805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/UltimateDungeonPack/Prefabs/Furniture/Table_Small.prefab using Guid(ce285a7430946e24ca0a9218777a7805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f42145a23a0fb8735c8a76883e46489') in 0.021688 seconds 
+  Import took 0.030925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.983158 seconds.
+  path: Assets/BuildingMaterial
+  artifactKey: Guid(cb75714b44fd21d4db7853abf1c2027a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BuildingMaterial using Guid(cb75714b44fd21d4db7853abf1c2027a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990e4c9fcd238ad15fec2ff251c17a13') in 0.008180 seconds 
+  Import took 0.012719 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
